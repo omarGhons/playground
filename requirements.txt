@@ -1,0 +1,7 @@
+pyodbc==5.1.0
+python-dotenv==1.0.1
+sqlalchemy==2.0.27
+pandas==2.2.0
+pymssql==2.2.11
+sqlacodegen_v2
+beautifulsoup4

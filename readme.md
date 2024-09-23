@@ -1,0 +1,1 @@
+sqlacodegen_v2 --schemas dbo --option use_inflect --outfile database/models.py "mssql+pymssql://sa:Mickey1@10.10.25.152/DI2-TEMP"
